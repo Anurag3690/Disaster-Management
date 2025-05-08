@@ -44,11 +44,6 @@ If you'd like to contribute, please follow these guidelines:
 5. Push to the branch (`git push origin feature`)
 6. Create a pull request.
 
-## Contact
-
-- Author Name: [Sam]
-- GitHub: [(https://github.com/shanmugapriya1203)]
-- Email: [priyamuthukumar1203@gmail.com]
 
 ## Home Page
 ![Home Page](https://github.com/shanmugapriya1203/nexus-client/assets/110707278/1158ac27-4fd5-46c7-a584-1c65ba5e8818)
